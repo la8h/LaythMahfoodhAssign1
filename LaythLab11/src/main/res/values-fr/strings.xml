@@ -1,5 +1,6 @@
 <!-- Layth Mahfoodh s991523983 -->
 <resources>
-    <string name="app_name">Layth Mahfoodh s991523983</string>
-    <string name="label_main">Bonjour le monde</string>
+    <string name="app_name">Bienvenu Layth Mahfoodh s991523983</string>
+    <string name="label_main">Bienvenu Layth Mahfoodh s991523983</string>
+    <!--<string name="label_main">Bonjour le monde</string>-->
 </resources>

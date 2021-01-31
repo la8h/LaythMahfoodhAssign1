@@ -1,5 +1,6 @@
 <!-- Layth Mahfoodh s991523983 -->
 <resources>
-    <string name="app_name">Layth Mahfoodh s991523983</string>
-    <string name="label_main">Hello World2!</string>
+    <string name="app_name">Welcome Layth Mahfoodh s991523983</string>
+    <string name="label_main">Welcome Layth Mahfoodh s991523983</string>
+    <color name="light_blue">#add8e6</color>
 </resources>
