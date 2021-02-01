@@ -25,6 +25,14 @@
         android:layout_height="wrap_content"
         android:width="100dp"
         android:onClick="callWeb"
-        android:text="CP24"></Button>
+        android:text="@string/label_web"></Button>
+    <Button
+        android:id="@+id/btnActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="100dp"
+        android:onClick="callWeb"
+        android:text="@string/label_anotherActivity"></Button>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+

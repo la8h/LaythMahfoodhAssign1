@@ -2,5 +2,8 @@
 <resources>
     <string name="app_name">Bienvenu Layth Mahfoodh s991523983</string>
     <string name="label_main">Bienvenu Layth Mahfoodh s991523983</string>
+    <string name="label_web">CP24</string>
+    <string name="label_anotherActivity">Display another activity</string>
+    <string name="label_toast">Layth Mahfoodh CP24</string>
     <!--<string name="label_main">Bonjour le monde</string>-->
 </resources>
