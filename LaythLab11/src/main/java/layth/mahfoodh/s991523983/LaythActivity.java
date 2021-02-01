@@ -39,7 +39,7 @@ public class LaythActivity extends AppCompatActivity {
                 startActivity(intent);
                 break;
             case R.id.btnActivity:
-                Snackbar.make(view, "Layth Mahfoodh Second Screen", Snackbar.LENGTH_SHORT)
+                Snackbar.make(view, "Layth Mahfoodh Second Screen", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show();
                 intent = new Intent(  this, MahfoodhActivity.class);
                 startActivity(intent);
