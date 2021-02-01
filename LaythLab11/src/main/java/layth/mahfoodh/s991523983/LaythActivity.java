@@ -14,6 +14,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.google.android.material.snackbar.Snackbar;
+
 
 public class LaythActivity extends AppCompatActivity {
 
@@ -37,6 +39,8 @@ public class LaythActivity extends AppCompatActivity {
                 startActivity(intent);
                 break;
             case R.id.btnActivity:
+                Snackbar.make(view, "Layth Mahfoodh Second Screen", Snackbar.LENGTH_SHORT)
+                .setAction("Action", null).show();
                 intent = new Intent(  this, MahfoodhActivity.class);
                 startActivity(intent);
             default:
