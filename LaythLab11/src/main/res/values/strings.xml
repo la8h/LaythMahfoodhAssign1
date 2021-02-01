@@ -6,4 +6,5 @@
     <string name="label_anotherActivity">Display another activity</string>
     <string name="label_toast">Layth Mahfoodh CP24</string>
     <color name="light_blue">#add8e6</color>
+    <color name="light_yellow">#ffffe0</color>
 </resources>
